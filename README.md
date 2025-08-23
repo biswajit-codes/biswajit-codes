@@ -1,5 +1,9 @@
-<h1 align="start">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" /></img>I'm Biswajit Sarkar
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
+       alt="Waving hand" 
+       width="30px" /> 
+  Hi, My name is Saikat Sardar
+</h1>
 
 
 
