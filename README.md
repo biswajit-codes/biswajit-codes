@@ -1,4 +1,4 @@
-## <h1 align="left"> Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"    alt="Biswajit Sarkar" width="40px" /> My name is Biswajit Sarkar </h1>
+## <h1 align="left"> Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"    alt="Biswajit Sarkar" width="60px" /> My name is Biswajit Sarkar </h1>
 
 
 
