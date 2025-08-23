@@ -1,11 +1,4 @@
-<h1 align="left">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
-       alt="Waving hand" 
-       width="30px" /> 
-  Hi, My name is Saikat Sardar
-</h1>
-
-
+## <h1 align="left"> Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"    alt="Biswajit Sarkar" width="40px" /> My name is Biswajit Sarkar </h1>
 
 
 
