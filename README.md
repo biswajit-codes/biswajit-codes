@@ -1,8 +1,4 @@
-<h1 align="start">Hi <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" target="_blank">
-          
-       I'm Biswajit Sarkar
+<h1 align="start">Hi <span href="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"></span>I'm Biswajit Sarkar
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
