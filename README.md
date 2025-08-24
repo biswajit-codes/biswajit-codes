@@ -5,79 +5,51 @@
 ### <p align="start">   Programmer, Human Being.</p>
 
 <!-- Professional summary -->
-<p align="start"> A passionate frontend developer from India </p> 
+#####   A passionate frontend developer from India 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit-codes&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit-codes" /> </p>
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
-
----
-
-## 🛠️ Skills
-
-<p align="center">
   <img
-  src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333333"
-  alt="JavaScript"
-  width="130"
-  height="130"
-  style="object-fit: contain;"
-/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100"
-  height="30";
-  />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=333333" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
----
-
-## 📊 Summary Card
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"
-    alt="YOUR_USERNAME’s GitHub stats"
-    width="350"
-  />
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default"
-    alt="Top languages"
-    width="350"
+    src="https://komarev.com/ghpvc/?username=biswajit-codes&label=Profile%20views&color=0e75b6&style=flat"
+    alt="biswajit-codes"
+    width="155"
+    height="28"
   />
 </p>
 
-<p align="center">
-  <!-- Activity Graph -->
-  <img
-    src="https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"
-    alt="Contribution graph"
-    width="700"
-  />
-</p>
 
----
+### <h3 align="left"> Skills </h3> 
 
-### 📈 Quick Stats
 
-- Contributions in the last year: **797**
-- Public repositories: **23**
-- GitHub member since: **9 years ago**
-- Email: <saikatsardar5@gmail.com>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="nextjs" width="45" height="45"/></a>
+ <a href="https://getbootstrap.com"  rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow@2x.png" alt="bootstrap" width="50" height="50"/></a>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+ <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+ <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+ <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+ 
+
+  
+  
+  
+  
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswajit-codes&show_icons=true&locale=en" alt="biswajit-codes" /></p>
+
+
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajit-codes&" alt="biswajit-codes" /></p> 
+
+
+
+
