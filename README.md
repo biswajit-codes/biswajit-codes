@@ -2,23 +2,18 @@
 
 
 <!-- Short tagline -->
-<p align="start">
-  Programmer, Human Being.
-</p>
+### <p align="start">   Programmer, Human Being.</p>
 
 <!-- Professional summary -->
-<p align="start">
-  Teaching and delivering production-grade applications at scale with security since 2015.
-</p>
+<p align="start"> A passionate frontend developer from India </p> 
 
-<!-- Follower badge -->
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=social"
-      alt="GitHub followers"
-    />
-  </a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit-codes&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit-codes" /> </p>
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
 ---
@@ -26,10 +21,18 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333333" />
+  <img
+  src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333333"
+  alt="JavaScript"
+  width="130"
+  height="130"
+  style="object-fit: contain;"
+/>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100"
+  height="30";
+  />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=333333" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
