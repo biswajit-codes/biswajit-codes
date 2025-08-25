@@ -2,10 +2,10 @@
 
 
 <!-- Short tagline -->
-### <p align="start">   Programmer, Human Being.</p>
+###   human soul in a digital world
 
 <!-- Professional summary -->
-#####   A passionate frontend developer from India 
+####   A passionate frontend developer from India 
 
 
 <p align="left">
